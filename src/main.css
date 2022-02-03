@@ -1,0 +1,36 @@
+.card{
+    padding: 0.5%;
+    box-shadow: 1px 0px 2px 2px #a8a5a5;
+    border: 2px black solid;
+    height: 230px;
+    width: 200px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-family: cursive;
+    margin: 2%;
+}
+.header{
+    height: 50px;
+    background-color: #009688;
+    padding: 1%;
+    margin-bottom: 1%;
+    border: 2px black solid;
+    font-size: 25px;
+    font-family: cursive;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.score{
+    display: flex;
+    justify-content: space-around;
+    margin: 2%;
+    font-family: cursive;
+}
+.PlayArea{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+    grid-template-rows: 1fr 1fr 1fr 1fr;
+    justify-items: center;
+}
