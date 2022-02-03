@@ -1,0 +1,2 @@
+.card{box-shadow:1px 0 2px 2px #a8a5a5;flex-direction:column;height:230px;margin:2%;padding:.5%;width:200px}.card,.header{align-items:center;border:2px solid #000;display:flex;font-family:cursive}.header{background-color:#009688;font-size:25px;height:50px;justify-content:center;margin-bottom:1%;padding:1%}.score{display:flex;font-family:cursive;justify-content:space-around;margin:2%}.PlayArea{display:grid;grid-template-columns:1fr 1fr 1fr 1fr 1fr;grid-template-rows:1fr 1fr 1fr 1fr;justify-items:center}
+/*# sourceMappingURL=main.97d9551e.css.map*/
