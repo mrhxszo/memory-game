@@ -7,5 +7,5 @@ Through this project I learned:
 - Lifecycle methods in React
 - Most common hooks like useState and useEffect
 - Manipulating useEffect hook to replace various lifecycle methods like: componentDidMount, componentDidUpdate, componentDidUnmount etc.
-- EffectEvent-handling using hooks
+- Event-handling using hooks
   
